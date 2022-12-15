@@ -1,2 +1,4 @@
-# Abubakar-Muhammad-
-nitda-blockchain-scholarship
+# nitda-blockchain-scholarship-
+Course material for NITDA Blockchain scholarship
+
+
